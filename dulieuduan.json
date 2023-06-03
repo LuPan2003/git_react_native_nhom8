@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "abc123@gmail.com",
+      "passwd": "123",
+      "fullname": "Mr Admin",
+      "phone": "0376037578"
+    },
+    {
+      "id": 2,
+      "email": "abc234@gmail.com",
+      "passwd": "123",
+      "fullname": "Nguyen Van A",
+      "phone": "0376037579"
+    },
+    {
+      "fullname": "Pham Nam",
+      "email": "anhnam123@gmail.com",
+      "passwd": "123123",
+      "phone": "0376037577",
+      "id": 3
+    },
+    {
+      "fullname": "qqqqqqqq",
+      "email": "qqqq111@gmail.com",
+      "passwd": "123123",
+      "phone": "0124456889",
+      "id": 4
+    },
+    {
+      "fullname": "Phạm Viết Dũng",
+      "email": "phamvietdung02072003@gmail.com",
+      "passwd": "anhnam123",
+      "phone": "0376037578",
+      "id": 5
+    },
+    {
+      "fullname": "Ha Nam",
+      "email": "nguyenha123@gmail.com",
+      "passwd": "123123",
+      "phone": "0356215996",
+      "id": 6
+    },
+    {
+      "fullname": "Nguyen Van Q",
+      "email": "abc",
+      "passwd": "abc",
+      "phone": "0376037578",
+      "id": 7
+    },
+    {
+      "fullname": "1112332",
+      "email": "13131231",
+      "passwd": "13131",
+      "phone": "1231314",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 1
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 2
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 3
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 4
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 5
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 6
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 7
+    },
+    {
+      "ten_dienthoai": "Iphone 14 Pro",
+      "gia_dienthoai":"16000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 8
+    },
+
+    {
+      "ten_dienthoai": "Iphone 14 Pro Max",
+      "gia_dienthoai":"17000000",
+      "anh_dienthoai": "https://truesmart.com.vn/wp-content/uploads/iphone-14-pro-256gb-chinh-hang-vna-p10101.png",
+      "tt_sanpham": "Máy mới 100% nguyên hộp nguyên seal - Đầy đủ phụ kiện từ nhà sản xuất , Bảo hành 1 đổi 1 nếu lỗi phần cứng từ nhà sản xuất (15 ngày đầu tiên) ,Bảo hành 12 tháng tại trung tâm bảo hành Apple (Thay thế linh kiện mới được cấp phép bởi Apple - thời gian từ 15-30 ngày)",
+      "id": 9
+    }
+  ]
+  
+}
